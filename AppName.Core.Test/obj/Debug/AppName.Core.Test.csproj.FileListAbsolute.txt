@@ -1,0 +1,6 @@
+D:\pocs\PenUnderwriting\PenUnderwriting\PU.Core.Test\bin\Debug\PU.Core.Test.dll
+D:\pocs\PenUnderwriting\PenUnderwriting\PU.Core.Test\bin\Debug\PU.Core.Test.pdb
+D:\pocs\PenUnderwriting\PenUnderwriting\PU.Core.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\pocs\PenUnderwriting\PenUnderwriting\PU.Core.Test\obj\Debug\AppName.Core.Test.csprojResolveAssemblyReference.cache
+D:\pocs\PenUnderwriting\PenUnderwriting\PU.Core.Test\obj\Debug\PU.Core.Test.dll
+D:\pocs\PenUnderwriting\PenUnderwriting\PU.Core.Test\obj\Debug\PU.Core.Test.pdb
